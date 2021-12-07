@@ -1,11 +1,16 @@
-# Anki 快速上手指南
+# Anki 快速上手指南（单词卡片）
 
+
+
+![banner](https://secure1.wostatic.cn/static/tqJCL9xRBZS6gXPvhvHRb3/topbanner.png?auth_key=1638848695-hceBuh9npwXktYfFWMAFJ7-0-4fd2a907070f68e8cd56688b43cf5166&image_process=format,webp)
 
 [![License][licenseSvg]][license]
 
 # 简介
 
 # 目录
+
+# 测试13
 
 # 更新
 
