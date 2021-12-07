@@ -1,6 +1,6 @@
 # Anki 快速上手指南（单词卡片）
 
-
+![](https://gitee.com/Brogan/image-bed/raw/master/img/top.png)
 
 
 [![License][licenseSvg]][license]
