@@ -2,7 +2,6 @@
 
 
 
-![banner](https://secure1.wostatic.cn/static/f7b3XvM7onrkYUmj8omprm/top.png?auth_key=1638850676-rYogYrPW3mXZ9iyawbfU8b-0-38ec9255b9cdc84e24282c8417a72629&image_process=format,webp)
 
 [![License][licenseSvg]][license]
 
