@@ -4,6 +4,7 @@
 
 [![License][licenseSvg]][license]
 [![Handbook][Handbook]][HandbookUrl]
+![](https://img.shields.io/badge/Platform-Windows|Mac|Linux|Android|IOS-red.svg)
 
 ## 简介
 
