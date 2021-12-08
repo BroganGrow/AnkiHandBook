@@ -63,8 +63,8 @@ limitations under the License.
 [qqgroupSvg]: https://img.shields.io/badge/%20Anki%E5%88%B6%E5%8D%A1%E7%BE%A4%20-%40Brogan-brightgreen
 [qqgroup]: https://shang.qq.com/wpa/qunwpa?idkey=d906789f84484465e2736f7b524366b4c23afeda38733d5c7b10fc3f6e406e9b
 
-
-[Wxq]: https://img.shields.io/twitter/url?label=Anki%E4%BA%A4%E6%B5%81&logo=wechat&style=social&url=https%3A%2F%2Fwww.jianshu.com%2Fp%2F191d1e21f7ed
+<!-- 微信群 -->
+[Wxq]: https://img.shields.io/twitter/url?label=Anki%E4%BA%A4%E6%B5%81%E7%BE%A4&logo=wechat&style=social&url=https%3A%2F%2Fwww.jianshu.com%2Fp%2F191d1e21f7ed
 [WxqUrl]: /Contact.md
 
 
