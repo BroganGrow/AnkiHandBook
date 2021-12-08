@@ -8,13 +8,9 @@
 
 ##  内容
 
-- 【腾讯文档】Anki 快速上手指南
-  https://docs.qq.com/doc/DR3FuQmN5cGFUaXpU
+- 【腾讯文档】https://docs.qq.com/doc/DR3FuQmN5cGFUaXpU
 
 ## 目录
-
-https://img.shields.io/badge/dynamic/xml?url=<URL>&label=<LABEL>&query=<[//data/subdata](http://xpather.com/)>&color=<COLOR>&prefix=<PREFIX>&suffix=<SUFFIX>
-
 
 
 ## 更新
@@ -25,16 +21,17 @@ https://img.shields.io/badge/dynamic/xml?url=<URL>&label=<LABEL>&query=<[//data/
 
 ## 交流
 
-## 赞助
+## 特别鸣谢
 
-[如果你想赞助](/Donations.md)
+[请作者喝奶茶](/Donations.md)
 
-赞助名单如下：
+排名不分先后，赞助名单如下：
 
 ![][D1]
 ![][D2]
 ![][D3]
 ![][D4]
+
 
 ## 许可证
 
@@ -67,9 +64,16 @@ limitations under the License.
 
 
 [D1]: https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1-Freya-ff69b4
+[D1C]: 200
+
 [D2]: https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1-%E6%9C%9F%E7%9B%BC-ff69b4
+[D2C]: 30
+
 [D3]: https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1-1---ff69b4
+[D3C]: 20
+
 [D4]: https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1-Sabrina-ff69b4
+[D4C]:68
 
 
 
