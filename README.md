@@ -24,8 +24,9 @@
 
 ## 特别鸣谢
 
+[![][Coffee]][coffeeUrl]  
 
-[请作者喝奶茶](/Donations.md)
+
 
 排名不分先后：
 
@@ -67,7 +68,9 @@ limitations under the License.
 [Wxq]: https://img.shields.io/twitter/url?label=Anki%E4%BA%A4%E6%B5%81%E7%BE%A4&logo=wechat&style=social&url=https%3A%2F%2Fwww.jianshu.com%2Fp%2F191d1e21f7ed
 [WxqUrl]: /Contact.md
 
-
+<!-- 喝奶茶 -->
+[Coffee]: https://img.shields.io/twitter/url?label=%E8%AF%B7%E4%BD%9C%E8%80%85%E5%96%9D%E5%A5%B6%E8%8C%B6&logo=Buy%20Me%20A%20Coffee&style=social&url=https%3A%2F%2Fgithub.com%2FBroganGrow%2FAnkiHandBook%2Fblob%2Fmaster%2FDonations.md
+[coffeeUrl]: /Donations.md
 
 
 [D1]: https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1-Freya-ff69b4
