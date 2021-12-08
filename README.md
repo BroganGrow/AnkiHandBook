@@ -2,7 +2,6 @@
 
 ![](https://gitee.com/Brogan/image-bed/raw/master/img/top.png)
 
-
 [![License][licenseSvg]][license]
 
 ## 简介
@@ -13,6 +12,10 @@
   https://docs.qq.com/doc/DR3FuQmN5cGFUaXpU
 
 ## 目录
+
+https://img.shields.io/badge/dynamic/xml?url=<URL>&label=<LABEL>&query=<[//data/subdata](http://xpather.com/)>&color=<COLOR>&prefix=<PREFIX>&suffix=<SUFFIX>
+
+
 
 ## 更新
 
@@ -28,11 +31,10 @@
 
 赞助名单如下：
 
-| ![](https://gitee.com/Brogan/image-bed/raw/master/img/20211208200526.png) | ![](https://gitee.com/Brogan/image-bed/raw/master/img/20211208200526.png) | ![](https://gitee.com/Brogan/image-bed/raw/master/img/20211208200526.png) | ![](https://gitee.com/Brogan/image-bed/raw/master/img/20211208200526.png) | ![](https://gitee.com/Brogan/image-bed/raw/master/img/20211208200526.png) | ![](https://gitee.com/Brogan/image-bed/raw/master/img/20211208200526.png) |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | -----------------------------------------------------------: | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-|                                                              |                                                              |                                                              |                                                              |                                                              |                                                              |
-
-
+[![][D1]][]
+[![][D2]][]
+[![][D3]][]
+[![][D4]][]
 
 ## 许可证
 
@@ -61,4 +63,17 @@ limitations under the License.
 
 [qqgroupSvg]: https://img.shields.io/badge/%20Anki%E5%88%B6%E5%8D%A1%E7%BE%A4%20-%40Brogan-brightgreen
 [qqgroup]: https://shang.qq.com/wpa/qunwpa?idkey=d906789f84484465e2736f7b524366b4c23afeda38733d5c7b10fc3f6e406e9b
+
+
+
+[D1]: https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1-Freya-ff69b4
+[D2]: https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1-%E6%9C%9F%E7%9B%BC-ff69b4
+[D3]: https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1-1---ff69b4
+[D4]: https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1-Sabrina-ff69b4
+
+
+
+
+
+
 
