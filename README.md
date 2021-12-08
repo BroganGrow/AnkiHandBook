@@ -3,6 +3,7 @@
 ![](https://gitee.com/Brogan/image-bed/raw/master/img/top.png)
 
 [![License][licenseSvg]][license]
+[![Handbook][Handbook]][HandbookUrl]
 
 ## 简介
 
@@ -24,9 +25,10 @@
 
 ## 特别鸣谢
 
+
+
+
 [![][Coffee]][coffeeUrl]  
-
-
 
 排名不分先后：
 
@@ -60,6 +62,14 @@ limitations under the License.
 
 [licenseSvg]: https://img.shields.io/badge/License-Apache--2.0-brightgreen.svg
 [license]: https://github.com/BroganGrow/AnkiHandBook/blob/main/LICENSE
+
+
+[Handbook]: https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?label=Handbook&logo=ss&logoColor=%230098ff
+[HandbookUrl]: https://github.com/BroganGrow/AnkiHandBook
+
+
+
+
 
 [qqgroupSvg]: https://img.shields.io/badge/%20Anki%E5%88%B6%E5%8D%A1%E7%BE%A4%20-%40Brogan-brightgreen
 [qqgroup]: https://shang.qq.com/wpa/qunwpa?idkey=d906789f84484465e2736f7b524366b4c23afeda38733d5c7b10fc3f6e406e9b
