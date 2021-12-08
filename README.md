@@ -64,7 +64,7 @@ limitations under the License.
 [license]: https://github.com/BroganGrow/AnkiHandBook/blob/main/LICENSE
 
 
-[Handbook]: https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?label=Handbook&logo=ss&logoColor=%230098ff
+[Handbook]: https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=%23008eff&label=Star&logoColor=%23008eff
 [HandbookUrl]: https://github.com/BroganGrow/AnkiHandBook
 
 
