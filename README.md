@@ -7,14 +7,10 @@
 
 ## 简介
 
-
-
 ##  内容
 
-- 【腾讯文档】Anki 记单词快速上手指南
+- 【腾讯文档】Anki 快速上手指南
   https://docs.qq.com/doc/DR3FuQmN5cGFUaXpU
-
-
 
 ## 目录
 
@@ -25,8 +21,6 @@
 `2021/12/07` [add] Anki 快速上手指南形成大纲，完善主体一部分
 
 ## 交流
-
-[![QQGroup][qqgroupSvg][qqgroup]
 
 ## 许可证
 
@@ -52,8 +46,6 @@ limitations under the License.
 
 [licenseSvg]: https://img.shields.io/badge/License-Apache--2.0-brightgreen.svg
 [license]: https://github.com/BroganGrow/AnkiHandBook/blob/main/LICENSE
-
-
 
 [qqgroupSvg]: https://img.shields.io/badge/%20Anki%E5%88%B6%E5%8D%A1%E7%BE%A4%20-%40Brogan-brightgreen
 [qqgroup]: https://shang.qq.com/wpa/qunwpa?idkey=d906789f84484465e2736f7b524366b4c23afeda38733d5c7b10fc3f6e406e9b
