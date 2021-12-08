@@ -22,8 +22,7 @@
 ## 交流
 ![][Wxq]  
 
-<img src="https://gitee.com/Brogan/image-bed/raw/master/img/Brogan-wx.png" style="zoom:30%" />
-
+<img src="https://gitee.com/Brogan/image-bed/raw/master/img/Brogan-wx.png" width = "300" height = "403" alt="" align=center />
 
 ## 特别鸣谢
 
