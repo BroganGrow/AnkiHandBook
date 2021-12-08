@@ -20,11 +20,10 @@
 `2021/12/07` [add] Anki 快速上手指南形成大纲，完善主体一部分  
 
 ## 交流
-![][Wxq]  
-
-<img src="https://gitee.com/Brogan/image-bed/raw/master/img/Brogan-wx.png" width = "300" height = "403" alt="" align=center />
+[![][Wxq]][WxqUrl]  
 
 ## 特别鸣谢
+
 
 [请作者喝奶茶](/Donations.md)
 
@@ -64,7 +63,9 @@ limitations under the License.
 [qqgroupSvg]: https://img.shields.io/badge/%20Anki%E5%88%B6%E5%8D%A1%E7%BE%A4%20-%40Brogan-brightgreen
 [qqgroup]: https://shang.qq.com/wpa/qunwpa?idkey=d906789f84484465e2736f7b524366b4c23afeda38733d5c7b10fc3f6e406e9b
 
-[Wxq]: https://img.shields.io/badge/Anki%E4%BA%A4%E6%B5%81%E7%BE%A4-%20%E5%8A%A0%E5%A5%BD%E5%8F%8B%E6%8B%89%E8%BF%9B%E7%BE%A4%20-brightgreen
+
+[Wxq]: https://img.shields.io/twitter/url?label=Anki%E4%BA%A4%E6%B5%81&logo=wechat&style=social&url=https%3A%2F%2Fwww.jianshu.com%2Fp%2F191d1e21f7ed
+[WxqUrl]: /Contact.md
 
 
 
