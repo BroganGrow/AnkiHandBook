@@ -21,6 +21,9 @@
 
 ## 交流
 
+Anki交流群
+
+![](https://gitee.com/Brogan/image-bed/raw/master/img/Brogan.png)
 ## 特别鸣谢
 
 [请作者喝奶茶](/Donations.md)
