@@ -31,10 +31,10 @@ https://img.shields.io/badge/dynamic/xml?url=<URL>&label=<LABEL>&query=<[//data/
 
 赞助名单如下：
 
-[![][D1]][]
-[![][D2]][]
-[![][D3]][]
-[![][D4]][]
+![][D1]
+![][D2]
+![][D3]
+![][D4]
 
 ## 许可证
 
