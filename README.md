@@ -22,7 +22,10 @@
 `2021/12/07` [add] Anki 快速上手指南形成大纲，完善主体一部分  
 
 ## 交流
-[![][Wxq]][WxqUrl]  
+
+![微信公众号][wechat]
+[![微信群][Wxq]][WxqUrl]
+[![B站][Bibili]][BibiliUrl]  
 
 ## 特别鸣谢
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)][coffeeUrl]  
@@ -66,6 +69,14 @@ limitations under the License.
 <!-- 手册 -->
 [Handbook]: https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=%23008eff&label=Star&logoColor=%23008eff
 [HandbookUrl]: https://github.com/BroganGrow/AnkiHandBook
+
+<!-- 微信公众号 -->
+[wechat]: https://img.shields.io/twitter/url?label=%E5%85%AC%E4%BC%97%E5%8F%B7%EF%BC%9A%E9%BB%84%E7%A2%A7%E5%86%A0Brogan&logo=wechat&style=social&url=https%3A%2F%2Fmp.weixin.qq.com%2Fcgi-bin%2Fappmsg%3Fbegin%3D0%26count%3D10%26type%3D10%26action%3Dlist_card%26token%3D684061466%26lang%3Dzh_CN
+[wechatUrl]: https://github.com/BroganGrow/AnkiHandBook
+
+<!-- B站 -->
+[Bibili]: https://img.shields.io/twitter/url?label=B%E7%AB%99%EF%BC%9ABrogan&logo=bilibili&style=social&url=https%3A%2F%2Fgithub.com%2FBroganGrow%2FAnkiHandBook
+[BibiliUrl]: https://space.bilibili.com/38031619
 
 <!-- 平台-->
 [platform]: https://img.shields.io/badge/Platform-Windows|Mac|Linux|Android|IOS-41a7c5.svg
