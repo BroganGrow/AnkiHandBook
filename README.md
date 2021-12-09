@@ -25,21 +25,15 @@
 [![][Wxq]][WxqUrl]  
 
 ## 特别鸣谢
-
-
-
-
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)][coffeeUrl]  
 [![][Coffee]][coffeeUrl]  
 
-排名不分先后：
-
-![](https://img.shields.io/badge/WX-@山猫-22a4ff.svg)
-![](https://img.shields.io/badge/WX-@Freya-f36cb0.svg)
-![](https://img.shields.io/badge/WX-@期盼-f36cb0.svg)
-![][D3]
-![](https://img.shields.io/badge/WX-@Sabrina-f36cb0.svg)
-
-![Twitter URL](https://img.shields.io/twitter/url?label=-1&logo=Alipay&style=social&url=https%3A%2F%2Fdocs.qq.com%2Fdoc%2FDR3FuQmN5cGFUaXpU)
+排名不分先后：   
+![Twitter URL](https://img.shields.io/twitter/url?label=%E5%B1%B1%E7%8C%AB&logo=Wechat&style=social&url=https%3A%2F%2Fgithub.com%2FBroganGrow%2FAnkiHandBook)
+![Twitter URL](https://img.shields.io/twitter/url?label=Freya&logo=Wechat&style=social&url=https%3A%2F%2Fgithub.com%2FBroganGrow%2FAnkiHandBook)
+![Twitter URL](https://img.shields.io/twitter/url?label=-1&logo=Wechat&style=social&url=https%3A%2F%2Fgithub.com%2FBroganGrow%2FAnkiHandBook)
+![Twitter URL](https://img.shields.io/twitter/url?label=%E6%9C%9F%E7%9B%BC&logo=Wechat&style=social&url=https%3A%2F%2Fgithub.com%2FBroganGrow%2FAnkiHandBook)
+![Twitter URL](https://img.shields.io/twitter/url?label=Sabrina&logo=Wechat&style=social&url=https%3A%2F%2Fgithub.com%2FBroganGrow%2FAnkiHandBook)
 
 
 ## 许可证
@@ -86,7 +80,7 @@ limitations under the License.
 [Wxq]: https://img.shields.io/twitter/url?label=Anki%E4%BA%A4%E6%B5%81%E7%BE%A4&logo=wechat&style=social&url=https%3A%2F%2Fwww.jianshu.com%2Fp%2F191d1e21f7ed
 [WxqUrl]: /Contact.md
 
-<!-- 喝奶茶 -->
+<!-- 喝奶茶/咖啡 -->
 [Coffee]: https://img.shields.io/twitter/url?label=%E8%AF%B7%E4%BD%9C%E8%80%85%E5%96%9D%E5%A5%B6%E8%8C%B6&logo=Buy%20Me%20A%20Coffee&style=social&url=https%3A%2F%2Fgithub.com%2FBroganGrow%2FAnkiHandBook%2Fblob%2Fmaster%2FDonations.md
 [coffeeUrl]: /Donations.md
 
