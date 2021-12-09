@@ -28,6 +28,9 @@ Anki 是一款可以辅助人脑进行科学记忆的免费开源软件，它的
 ![微信公众号][wechat]
 [![微信群][Wxq]][WxqUrl]
 [![B站][Bibili]][BibiliUrl]  
+[![B站][Bibili]][BibiliUrl]  
+
+![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCoKkSNBTXbsVxK4lWa2nw_g?label=YouTube%EF%BC%9A%E9%BB%84%E7%A2%A7%E5%86%A0Brogan&style=social)
 
 ## 特别鸣谢
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)][coffeeUrl]  
@@ -76,9 +79,15 @@ limitations under the License.
 [wechat]: https://img.shields.io/twitter/url?label=%E5%85%AC%E4%BC%97%E5%8F%B7%EF%BC%9A%E9%BB%84%E7%A2%A7%E5%86%A0Brogan&logo=wechat&style=social&url=https%3A%2F%2Fmp.weixin.qq.com%2Fcgi-bin%2Fappmsg%3Fbegin%3D0%26count%3D10%26type%3D10%26action%3Dlist_card%26token%3D684061466%26lang%3Dzh_CN
 [wechatUrl]: https://github.com/BroganGrow/AnkiHandBook
 
+<!-- YouTube -->
+[YouTube]: https://img.shields.io/youtube/channel/views/UCoKkSNBTXbsVxK4lWa2nw_g?label=YouTuBe%EF%BC%9A%E9%BB%84%E7%A2%A7%E5%86%A0Brogan&style=social
+[YouTubeUrl]: https://space.bilibili.com/38031619
+
 <!-- B站 -->
 [Bibili]: https://img.shields.io/twitter/url?label=B%E7%AB%99%EF%BC%9ABrogan&logo=bilibili&style=social&url=https%3A%2F%2Fgithub.com%2FBroganGrow%2FAnkiHandBook
 [BibiliUrl]: https://space.bilibili.com/38031619
+
+
 
 <!-- 平台-->
 [platform]: https://img.shields.io/badge/Platform-Windows|Mac|Linux|Android|IOS-41a7c5.svg
