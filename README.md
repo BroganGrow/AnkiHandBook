@@ -25,11 +25,12 @@ Anki 是一款可以辅助人脑进行科学记忆的免费开源软件，它的
 
 ## 交流
 
-![微信公众号][wechat]
 [![微信群][Wxq]][WxqUrl]
+
+![微信公众号][wechat]
 [![B站][Bibili]][BibiliUrl]
-[![YouTube][YouTube]][YouTubeUrl]  
 [![zhihu][zhihu]][zhihuUrl]  
+[![YouTube][YouTube]][YouTubeUrl]  
 
 
 ## 特别鸣谢
