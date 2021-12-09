@@ -7,12 +7,15 @@
 [![Handbook][platform]][platformUrl]
 
 ## 简介
+Anki 是一款可以辅助人脑进行科学记忆的免费开源软件，它的本质就是一种 **闪卡**，正面是问题，背面是答案。闪卡有了 Anki 加持后，它就可以在相对合适的时间段里告诉你什么时候复习是最高效率的。
+
+
+## 目录
+![](https://gitee.com/Brogan/image-bed/raw/master/img/20211209134616.png)
 
 ##  内容
 
-- 【腾讯文档】https://docs.qq.com/doc/DR3FuQmN5cGFUaXpU
-
-## 目录
+- 文档资源：https://docs.qq.com/doc/DR3FuQmN5cGFUaXpU
 
 
 ## 更新
