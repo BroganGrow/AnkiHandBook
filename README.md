@@ -27,10 +27,10 @@ Anki 是一款可以辅助人脑进行科学记忆的免费开源软件，它的
 
 ![微信公众号][wechat]
 [![微信群][Wxq]][WxqUrl]
-[![B站][Bibili]][BibiliUrl]  
-[![B站][Bibili]][BibiliUrl]  
+[![B站][Bibili]][BibiliUrl]
+[![YouTube][YouTube]][YouTubeUrl]  
+[![zhihu][zhihu]][zhihuUrl]  
 
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCoKkSNBTXbsVxK4lWa2nw_g?label=YouTube%EF%BC%9A%E9%BB%84%E7%A2%A7%E5%86%A0Brogan&style=social)
 
 ## 特别鸣谢
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)][coffeeUrl]  
@@ -80,13 +80,25 @@ limitations under the License.
 [wechatUrl]: https://github.com/BroganGrow/AnkiHandBook
 
 <!-- YouTube -->
+[YouTxxube]: 
+[YouTubxxeUrl]: 
+
+
+<!-- 知乎 -->
+[zhihu]: https://img.shields.io/twitter/url?label=%E7%9F%A5%E4%B9%8E%EF%BC%9A%E9%BB%84%E7%A2%A7%E5%86%A0Brogan%E2%80%8B&logo=zhihu&style=social&url=https%3A%2F%2Fspace.bilibili.com%2F38031619
+[zhihuUrl]: https://www.zhihu.com/people/brainbg
+
+
+
+<!-- YouTube -->
 [YouTube]: https://img.shields.io/youtube/channel/views/UCoKkSNBTXbsVxK4lWa2nw_g?label=YouTuBe%EF%BC%9A%E9%BB%84%E7%A2%A7%E5%86%A0Brogan&style=social
-[YouTubeUrl]: https://space.bilibili.com/38031619
+[YouTubeUrl]: https://www.youtube.com/channel/UCoKkSNBTXbsVxK4lWa2nw_g
+
+
 
 <!-- B站 -->
 [Bibili]: https://img.shields.io/twitter/url?label=B%E7%AB%99%EF%BC%9ABrogan&logo=bilibili&style=social&url=https%3A%2F%2Fgithub.com%2FBroganGrow%2FAnkiHandBook
 [BibiliUrl]: https://space.bilibili.com/38031619
-
 
 
 <!-- 平台-->
