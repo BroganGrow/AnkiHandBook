@@ -19,6 +19,7 @@ Anki 是一款可以辅助人脑进行科学记忆的免费开源软件，它的
 
 ## 更新
 
+`2021/12/09` [fix] 完善 Sharex 录制环节容易掉坑的问题。  
 `2021/12/08` [add] 绑定 Anki 和在线词典助手  
 `2021/12/08` [add] 添加了Snipaste使用方法、ShareX的音频录制功能  
 `2021/12/07` [add] Anki 快速上手指南形成大纲，完善主体一部分  
@@ -38,11 +39,11 @@ Anki 是一款可以辅助人脑进行科学记忆的免费开源软件，它的
 [![][Coffee]][coffeeUrl]  
 
 排名不分先后：   
-![Twitter URL](https://img.shields.io/twitter/url?label=%E5%B1%B1%E7%8C%AB&logo=Wechat&style=social&url=https%3A%2F%2Fgithub.com%2FBroganGrow%2FAnkiHandBook)
-![Twitter URL](https://img.shields.io/twitter/url?label=Freya&logo=Wechat&style=social&url=https%3A%2F%2Fgithub.com%2FBroganGrow%2FAnkiHandBook)
-![Twitter URL](https://img.shields.io/twitter/url?label=-1&logo=Wechat&style=social&url=https%3A%2F%2Fgithub.com%2FBroganGrow%2FAnkiHandBook)
-![Twitter URL](https://img.shields.io/twitter/url?label=%E6%9C%9F%E7%9B%BC&logo=Wechat&style=social&url=https%3A%2F%2Fgithub.com%2FBroganGrow%2FAnkiHandBook)
-![Twitter URL](https://img.shields.io/twitter/url?label=Sabrina&logo=Wechat&style=social&url=https%3A%2F%2Fgithub.com%2FBroganGrow%2FAnkiHandBook)
+![0](https://img.shields.io/twitter/url?label=%E5%B1%B1%E7%8C%AB&logo=Wechat&style=social&url=https%3A%2F%2Fgithub.com%2FBroganGrow%2FAnkiHandBook)
+![200](https://img.shields.io/twitter/url?label=Freya&logo=Wechat&style=social&url=https%3A%2F%2Fgithub.com%2FBroganGrow%2FAnkiHandBook)
+![20](https://img.shields.io/twitter/url?label=-1&logo=Wechat&style=social&url=https%3A%2F%2Fgithub.com%2FBroganGrow%2FAnkiHandBook)
+![30](https://img.shields.io/twitter/url?label=%E6%9C%9F%E7%9B%BC&logo=Wechat&style=social&url=https%3A%2F%2Fgithub.com%2FBroganGrow%2FAnkiHandBook)
+![68](https://img.shields.io/twitter/url?label=Sabrina&logo=Wechat&style=social&url=https%3A%2F%2Fgithub.com%2FBroganGrow%2FAnkiHandBook)
 
 
 ## 许可证
