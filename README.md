@@ -4,7 +4,7 @@
 
 [![License][licenseSvg]][license]
 [![Handbook][Handbook]][HandbookUrl]
-![](https://img.shields.io/badge/Platform-Windows|Mac|Linux|Android|IOS-red.svg)
+[![Handbook][platform]][platformUrl]
 
 ## 简介
 
@@ -38,7 +38,6 @@
 ![][D3]
 ![][D4]
 
-
 ## 许可证
 
 ```
@@ -64,14 +63,19 @@ limitations under the License.
 [licenseSvg]: https://img.shields.io/badge/License-Apache--2.0-brightgreen.svg
 [license]: https://github.com/BroganGrow/AnkiHandBook/blob/main/LICENSE
 
-
+<!-- 手册 -->
 [Handbook]: https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=%23008eff&label=Star&logoColor=%23008eff
 [HandbookUrl]: https://github.com/BroganGrow/AnkiHandBook
 
+<!-- 平台-->
+[platform]: https://img.shields.io/badge/Platform-Windows|Mac|Linux|Android|IOS-ededed.svg
+[platformUrl]: https://apps.ankiweb.net/
 
 
 
 
+
+<!-- QQ群 -->
 [qqgroupSvg]: https://img.shields.io/badge/%20Anki%E5%88%B6%E5%8D%A1%E7%BE%A4%20-%40Brogan-brightgreen
 [qqgroup]: https://shang.qq.com/wpa/qunwpa?idkey=d906789f84484465e2736f7b524366b4c23afeda38733d5c7b10fc3f6e406e9b
 
@@ -83,6 +87,8 @@ limitations under the License.
 [Coffee]: https://img.shields.io/twitter/url?label=%E8%AF%B7%E4%BD%9C%E8%80%85%E5%96%9D%E5%A5%B6%E8%8C%B6&logo=Buy%20Me%20A%20Coffee&style=social&url=https%3A%2F%2Fgithub.com%2FBroganGrow%2FAnkiHandBook%2Fblob%2Fmaster%2FDonations.md
 [coffeeUrl]: /Donations.md
 
+
+<!-- 赞助人名单 -->
 
 [D1]: https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1-Freya-ff69b4
 [D1C]: 200
