@@ -29,7 +29,7 @@ Anki 是一款可以辅助人脑进行科学记忆的免费开源软件，它的
 
 ![微信公众号][wechat]
 [![B站][Bibili]][BibiliUrl]
-[![zhihu][zhihu]][zhihuUrl]  
+[![zhihu][zhihu]][zhihuUrl]
 [![YouTube][YouTube]][YouTubeUrl]  
 
 
