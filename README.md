@@ -19,7 +19,7 @@ Anki 是一款可以辅助人脑进行科学记忆的免费开源软件，它的
 
 ## 更新
 
-`2021/12/13` [fix] 完善下载过程的描述、重新整理百度云的资源。  
+`2021/12/13` [fix] 完善下载过程的描述、重新整理  
 `2021/12/13` [add] 添加了牌组章节  
 `2021/12/09` [fix] 完善 Sharex 录制环节容易掉坑的问题。  
 `2021/12/08` [add] 绑定 Anki 和在线词典助手  
@@ -46,6 +46,10 @@ Anki 是一款可以辅助人脑进行科学记忆的免费开源软件，它的
 ![20](https://img.shields.io/twitter/url?label=-1&logo=Wechat&style=social&url=https%3A%2F%2Fgithub.com%2FBroganGrow%2FAnkiHandBook)
 ![30](https://img.shields.io/twitter/url?label=%E6%9C%9F%E7%9B%BC&logo=Wechat&style=social&url=https%3A%2F%2Fgithub.com%2FBroganGrow%2FAnkiHandBook)
 ![68](https://img.shields.io/twitter/url?label=Sabrina&logo=Wechat&style=social&url=https%3A%2F%2Fgithub.com%2FBroganGrow%2FAnkiHandBook)
+![18.8](https://img.shields.io/twitter/url?label=大盗&logo=Wechat&style=social&url=https%3A%2F%2Fgithub.com%2FBroganGrow%2FAnkiHandBook)
+![18.8](https://img.shields.io/twitter/url?label=坚决不改&logo=Wechat&style=social&url=https%3A%2F%2Fgithub.com%2FBroganGrow%2FAnkiHandBook)
+![18.8](https://img.shields.io/twitter/url?label=Li云超&logo=Wechat&style=social&url=https%3A%2F%2Fgithub.com%2FBroganGrow%2FAnkiHandBook)
+![15](https://img.shields.io/twitter/url?label=Be.quit.&logo=Wechat&style=social&url=https%3A%2F%2Fgithub.com%2FBroganGrow%2FAnkiHandBook)
 
 
 ## 许可证
